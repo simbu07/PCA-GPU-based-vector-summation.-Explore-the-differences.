@@ -1,5 +1,5 @@
-## EX NO : 01
-## PCA-GPU based vector summation. Explore the differences.
+## <p align="left">Ex No: 1 <br>Date: 23/8/2023</p>
+# <p align="center">  PCA-GPU based vector summation. Explore the differences</p>
 
 i) Using the program sumArraysOnGPU-timer.cu, set the block.x = 1023. Recompile and run it. Compare the result with the execution confi guration of block.x = 1024. Try to explain the difference and the reason.
 
